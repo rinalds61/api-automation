@@ -1,12 +1,12 @@
 export const config = {
 
-    BOOKS_DEV: {
+    DEV: {
         host: 'http://localhost:1050',
     },
-    BOOKS_STG: {
+    STG: {
         host: 'http://localhost:1234',
     },
-    BOOKS_PRD: {
+    PRD: {
         host: 'http://localhost:12345',
     }
 }
